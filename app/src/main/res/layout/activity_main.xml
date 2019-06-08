@@ -21,7 +21,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Select a Spell"
-            android:completionHint="Choose thy spell"/>
+            android:completionHint="Choose thy spell"
+            android:dropDownHeight="100dp"/>
 
         <TextView
             android:id="@+id/text_view_spells"
